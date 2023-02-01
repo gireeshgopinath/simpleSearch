@@ -1,0 +1,9 @@
+searchengine\service\StopwordRemover.class
+searchengine\SimpleSearchApplication.class
+searchengine\service\Analyser.class
+searchengine\controller\SearchEngineApi.class
+searchengine\respose\SearchResult.class
+searchengine\service\Tokenizer.class
+searchengine\TfIdfInvertedIndex$Posting.class
+searchengine\TfIdfInvertedIndex.class
+searchengine\service\impl\SimpleAnalyser.class
